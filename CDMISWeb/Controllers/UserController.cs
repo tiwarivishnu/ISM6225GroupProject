@@ -120,7 +120,7 @@ namespace CDMISWeb.Controllers
 
             var fromEmail = new MailAddress("vishnu.cec@gmail.com", "VKT");
             var toEmail = new MailAddress(emailID);
-            var fromEmailPassword = "1EF&ri5$";
+            var fromEmailPassword = "XXXXXX";
             string subject = "Your account is successfully created!";
 
             string body = "<br></br>We are excited to tell you that your account is created.";
